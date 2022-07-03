@@ -1,1 +1,2 @@
-console.log('git');
+a= 1+2
+console.log(a)
